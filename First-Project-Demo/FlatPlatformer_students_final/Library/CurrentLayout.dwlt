@@ -47,7 +47,7 @@ MonoBehaviour:
   m_MinSize: {x: 683, y: 494}
   m_MaxSize: {x: 14004, y: 14044}
   vertical: 0
-  controlID: 131
+  controlID: 15
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -219,7 +219,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 494}
   m_MaxSize: {x: 10002, y: 14044}
   vertical: 1
-  controlID: 90
+  controlID: 16
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -244,7 +244,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 222}
   m_MaxSize: {x: 8006, y: 4022}
   vertical: 0
-  controlID: 91
+  controlID: 17
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -546,19 +546,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Flat Platformer Template/Scripts
+    - Assets/Flat Platformer Template/Sprites/Correct items
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Flat Platformer Template/Scripts
+  - Assets/Flat Platformer Template/Sprites/Correct items
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\percy.sullivan\Desktop\Team-8\First-Project-Demo\FlatPlatformer_students_final
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 14}
-    m_SelectedIDs: 7a2b0000
-    m_LastClickedID: 11130
+    scrollPos: {x: 0, y: 34}
+    m_SelectedIDs: 502c0000
+    m_LastClickedID: 11344
     m_ExpandedIDs: 00000000942a0000ee2e00006c30000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -614,7 +614,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000e239000000000000ac3400003a2c00006c2b0000802f0000d42d00009e2f0000642d00002042000024450000602f0000502c0000de310000ea2f0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -707,9 +707,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: c6320000
+      m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 6efbffff1c350000283500002e3500003a350000463500004c3500006c35000072350000
+      m_ExpandedIDs: 6efbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -769,9 +769,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 5.180418, y: -0.14988585, z: -2.354033}
+    m_Target: {x: -0.29580846, y: -1.4875226, z: -6.2226562}
     speed: 2
-    m_Value: {x: 5.218176, y: 0.023800537, z: -2.3142326}
+    m_Value: {x: -0.29580846, y: -1.4875226, z: -6.2226562}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -804,9 +804,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 10.562766
+    m_Target: 15.106299
     speed: 2
-    m_Value: 11.060488
+    m_Value: 14.455789
   m_Ortho:
     m_Target: 1
     speed: 2
