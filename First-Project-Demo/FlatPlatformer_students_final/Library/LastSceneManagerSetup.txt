@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Flat Platformer Template/Scenes/Harry's Sandbox.unity
+- path: Assets/Flat Platformer Template/Scenes/Percy's sandbox.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
